@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MqttDemo</string>
+    <string name="message">{ "msg": "Hello, Mqtt!" }</string>
+</resources>
