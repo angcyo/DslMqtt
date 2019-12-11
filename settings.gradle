@@ -1,2 +1,2 @@
 include ':app', ':DslMqtt'
-rootProject.name='MqttDemo'
+rootProject.name='DslMqtt'
